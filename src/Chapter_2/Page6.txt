@@ -1,3 +1,5 @@
 creating and editing pages
 
 what a fun way to explore GITHUB!
+
+editor: GitHub rules
